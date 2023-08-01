@@ -1,0 +1,9 @@
+User-agent: GoogleBot
+Allow: /index.html
+Allow: /curriculo.html
+Allow: /atendimento.html
+Allow: /portfolio.html
+Allow: /formulario.html
+User-agent: *
+Disallow: /
+Sitemap: http://rfariamatos.com.br/sitemap.xml
